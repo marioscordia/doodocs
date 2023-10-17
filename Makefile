@@ -1,5 +1,5 @@
 start:
-	go run ./cmd/
+	go run .
 build:
 	docker build -t file-handler .    
 run:
